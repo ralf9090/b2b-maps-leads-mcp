@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ralf9090/b2b-maps-leads-mcp",
-  "title": "B2B Google Maps local business leads, domain tech-stack OSINT & 4-in-1 company dossie",
-  "description": "B2B Google Maps local business leads, domain tech-stack OSINT & 4-in-1 company dossier MCP server for AI SDRs (Zero-config stdio & Remote HTTP, 2 free calls/day).",
+  "title": "Local Maps B2B Lead Extractor MCP",
+  "description": "Local business & Google Maps B2B lead extractor MCP: phone, email, website, DNS & SaaS tech stack.",
   "version": "1.0.0",
   "websiteUrl": "https://agent-kiosk.vercel.app/buy",
   "repository": {
