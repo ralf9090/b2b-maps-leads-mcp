@@ -6,7 +6,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "b2b-maps-leads-mcp": "./index.js"
+    "b2b-maps-leads-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js",
