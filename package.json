@@ -1,0 +1,36 @@
+{
+  "name": "b2b-maps-leads-mcp",
+  "version": "1.0.0",
+  "description": "B2B Google Maps local business leads, domain tech-stack OSINT & 4-in-1 company dossier MCP server for AI SDRs (Zero-config stdio & Remote HTTP, 2 free calls/day).",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "b2b-maps-leads-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralf9090/b2b-maps-leads-mcp.git"
+  },
+  "homepage": "https://agent-kiosk.vercel.app/buy",
+  "bugs": {
+    "url": "https://github.com/ralf9090/b2b-maps-leads-mcp/issues"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "lead-generation",
+    "google-maps",
+    "b2b-leads",
+    "osint",
+    "ai-agents",
+    "x402"
+  ]
+}
